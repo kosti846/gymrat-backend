@@ -31,5 +31,6 @@
   "eslint.nodePath": "node_modules/eslint",
 
   // 📌 Opcional: Mostrar errores de ESLint en tiempo real
-  "editor.diagnostic.enable": true
+  "editor.diagnostic.enable": true,
+  "conventionalCommits.scopes": ["configuracion del dto"]
 }
